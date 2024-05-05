@@ -1,0 +1,30 @@
+$brand-primary: darkgreen;
+
+$icon-font-path: '../../fonts/bootstrap/';
+
+@import '~bootstrap/scss/bootstrap';
+
+.body_bg, body{
+    background-color: #bccad0 !important;
+}
+
+.loading{
+    letter-spacing: 3px;
+}
+
+#usernameLogin,
+#passwordLogin{
+    border-radius: 10px;
+}
+
+#navtoggle{
+    margin-left: auto;
+}
+
+#loginButton{
+    margin-left: auto;
+}
+
+#logoutRow{
+    text-align: right;
+}
