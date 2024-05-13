@@ -7,4 +7,3 @@ backend/myapp/__pycache__/
 backend/myapp/management/__pycache__/
 backend/myapp/management/commands/__pycache__/
 backend/myapp/migrations/__pycache__/
-

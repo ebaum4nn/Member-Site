@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 
 function ContentWrapper({children}) {
     return (
-        <div className="p-5 mb-4 bg-light rounded-3 body_bg">
+        <div className="p-3 p-lg-5 mb-4 bg-light rounded-3 body_bg">
             <Container fluid="fluid">
                 <Row>
                     <Col>

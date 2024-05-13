@@ -5,10 +5,15 @@ A simple membership website.
 ### Frontend
 - Built in ReactJS, calls rest API endpoint and displays results.
 
+##First Page
 ![First Page](./frontend/screenshot1.png)
+<br />
+##Login Screen
 ![Login Screen](./frontend/screenshot2.png)
+<br />
+## Page Once Logged In
 ![Page Once Logged In](./frontend/screenshot3.png)
-
+<br />
 ### Docker
 - Creates Docker containers.
 
